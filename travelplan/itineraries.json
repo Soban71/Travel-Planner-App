@@ -1,0 +1,113 @@
+[
+  {
+    "Name": "London",
+    "AirlineBookings": [],
+    "HotelBookings": [],
+    "PointsOfInterest": [],
+    "Budget": 0.0,
+    "DailySchedules": []
+  },
+  {
+    "Name": "London",
+    "AirlineBookings": [
+      {
+        "FlightNumber": "102",
+        "DepartureTime": "2022-12-31T23:00:00",
+        "ArrivalTime": "2022-01-31T21:00:00"
+      }
+    ],
+    "HotelBookings": [
+      {
+        "HotelName": "SHARdha",
+        "CheckInDate": "2022-01-02T00:00:00",
+        "CheckOutDate": "2022-01-06T00:00:00"
+      }
+    ],
+    "PointsOfInterest": [
+      {
+        "Name": "natural beatify",
+        "Location": "street22"
+      }
+    ],
+    "Budget": 3000.0,
+    "DailySchedules": []
+  },
+  {
+    "Name": "Sialkot",
+    "AirlineBookings": [],
+    "HotelBookings": [],
+    "PointsOfInterest": [],
+    "Budget": 0.0,
+    "DailySchedules": []
+  },
+  {
+    "Name": "Paris",
+    "AirlineBookings": [
+      {
+        "FlightNumber": "1231",
+        "DepartureTime": "2024-12-11T00:00:00",
+        "ArrivalTime": "2024-12-11T23:00:00"
+      }
+    ],
+    "HotelBookings": [
+      {
+        "HotelName": "shardhaaa",
+        "CheckInDate": "2024-12-11T12:00:00",
+        "CheckOutDate": "2024-12-14T12:00:00"
+      }
+    ],
+    "PointsOfInterest": [
+      {
+        "Name": "Nature beaty",
+        "Location": "paris"
+      }
+    ],
+    "Budget": 0.0,
+    "DailySchedules": [
+      {
+        "Date": "2024-12-14T00:00:00",
+        "Activities": [
+          "walking",
+          "eating"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "newYork",
+    "AirlineBookings": [
+      {
+        "FlightNumber": "123",
+        "DepartureTime": "2024-09-21T00:00:00",
+        "ArrivalTime": "2024-10-23T00:00:00"
+      }
+    ],
+    "HotelBookings": [],
+    "PointsOfInterest": [
+      {
+        "Name": "walking",
+        "Location": "Newyork"
+      }
+    ],
+    "Budget": 0.0,
+    "DailySchedules": [
+      {
+        "Date": "2024-10-23T00:00:00",
+        "Activities": [
+          "EATING",
+          "EXPLORE",
+          "Finidng sports",
+          "beach"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Street2",
+    "AirlineBookings": [],
+    "HotelBookings": [],
+    "PointsOfInterest": [],
+    "Budget": 0.0,
+    "DailySchedules": []
+  }
+]

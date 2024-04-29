@@ -1,0 +1,17 @@
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\travelplan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\travelplan.AssemblyInfoInputs.cache
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\travelplan.AssemblyInfo.cs
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\travelplan.csproj.CoreCompileInputs.cache
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\bin\Debug\net8.0\travelplan.exe
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\bin\Debug\net8.0\travelplan.deps.json
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\bin\Debug\net8.0\travelplan.runtimeconfig.json
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\bin\Debug\net8.0\travelplan.dll
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\bin\Debug\net8.0\travelplan.pdb
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\travelplan.csproj.AssemblyReference.cache
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\travelplan.csproj.Up2Date
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\travelplan.dll
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\refint\travelplan.dll
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\travelplan.pdb
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\travelplan.genruntimeconfig.cache
+C:\Users\FA20-BCS-020.cuiatd\Desktop\TravelPlanner\travelplan\obj\Debug\net8.0\ref\travelplan.dll
